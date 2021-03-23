@@ -12,6 +12,7 @@ Training Quiz: osintquiz@gmail.com
 
 
 Tools
+
 Mind Map Software: https://www.xmind.net/
 Mind Map Templates: https://github.com/WebBreacher/osinttools
 Spiderfoot: https://www.spiderfoot.net/
